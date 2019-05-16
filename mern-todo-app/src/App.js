@@ -14,9 +14,9 @@ class App extends Component {
                 <div className="container">
 
                     <nav className="navbar navbar-expand-lg navbar-light bg-light">
-                        <a className="navbar-brand" href="https://codingthesmartway.com" target="_blank">
 
-                        </a>
+
+
                         <Link to="/" className="navbar-brand">MERN-Stack Todo App</Link>
                         <div className="collpase nav-collapse">
                             <ul className="navbar-nav mr-auto">
